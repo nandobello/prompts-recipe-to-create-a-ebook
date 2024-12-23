@@ -2,13 +2,11 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
-
 <p align="center">
 <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
 <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
 
 -------
-
 
 <p align="center">
 <img 
@@ -17,54 +15,51 @@
 />
 </p>
 
-# Projeto EBOOK Gerado por I.A.s
+# A Primeira Renda Passiva: Como Fundos Imobiliários Podem Trabalhar por Você
 
+> Este eBook foi criado para ajudar iniciantes no mercado financeiro a entender como os Fundos Imobiliários (FIIs) podem ser uma excelente porta de entrada para investimentos. O objetivo é proporcionar conhecimento acessível e prático para você começar sua jornada financeira com segurança.
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+## 💻 Ferramentas Utilizadas
 
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
+- [ChatGPT](https://chat.openai.com/) - Geração do conteúdo textual.
+- [MidJourney](https://www.midjourney.com/app/) - Criação de imagens para o eBook.
+- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint) - Diagramação e montagem do material final.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+## 📚 Sumário do eBook
 
-## 💻 Tecnologias utilizadas no projeto
+### **Capítulo 1: Desvendando Fundos Imobiliários (FIIs)**
+- Entenda o que são FIIs e como funcionam.
+- Descubra os diferentes tipos de FIIs: Tijolo, Papel e Híbridos.
+- Benefícios dos FIIs para investidores iniciantes.
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+### **Capítulo 2: Por Onde Começar?**
+- Passo a passo para abrir uma conta em corretoras.
+- Ferramentas gratuitas para auxiliar na escolha de FIIs.
+- Dicas práticas para planejar seus investimentos.
 
-## 🧠 Prompts
+### **Capítulo 3: Estratégias para Crescer no Mercado**
+- Como diversificar sua carteira e mitigar riscos.
+- O impacto da inflação e dos juros nos rendimentos.
+- A importância do reinvestimento para o crescimento patrimonial.
 
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+### **Capítulo 4: Construindo a Liberdade Financeira**
+- Defina suas metas de liberdade financeira.
+- Inspire-se em histórias reais de investidores bem-sucedidos.
+- Consistência como chave para o sucesso.
 
 ## ✨ Features
 
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Conteúdo gerado via ChatGPT com linguagem clara e acessível.
+- Imagens e design desenvolvidos com ferramentas de IA.
+- Passo a passo para ajudar investidores iniciantes a tomar decisões mais informadas.
 
-## 📚 Materiais
+## 📕 Baixe o eBook Agora
 
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+Clique no link abaixo para acessar o eBook completo:
 
-## 🛠️ Instruções de execução
+<a href="https://github.com/seu-usuario/seu-repositorio/output/ebook_fundos_imobiliarios.pdf" title="View PDF now">📥 Clique aqui para ler</a>
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
+## 👨‍💻 Autor
 
 <p>
     <img 
@@ -73,20 +68,18 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       width=80 
       src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbsp[Seu Nome]<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/seu-usuario">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://linkedin.com/in/seu-perfil">
+    LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/seu-perfil/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
-<br/><br/>
-<p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+💡 Desenvolvido com paixão pela educação financeira e pela disseminação de conhecimento acessível!
