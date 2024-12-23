@@ -42,7 +42,7 @@
 
 Clique no link abaixo para acessar o eBook completo:
 
-<a href="https://github.com/seu-usuario/seu-repositorio/output/ebook_fundos_imobiliarios.pdf" title="View PDF now">📥 Clique aqui para ler</a>
+<a href="https://github.com/nandobello/prompts-recipe-to-create-a-ebook/blob/main/ebookAprimeiraRendaPassiva.pdf" title="View PDF now">📥 Clique aqui para ler</a>
 
 ## 👨‍💻 Autor
 
